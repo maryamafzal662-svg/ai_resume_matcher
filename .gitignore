@@ -1,0 +1,11 @@
+# Root gitignore for ai_resume_matcher
+# Ignore environment files and virtual environments
+.env
+.env.*
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+db.sqlite3
+media/
+node_modules/
